@@ -14,11 +14,11 @@ $_SESSION['ranks'] = array(
     'canberra',
     'melbourne',
     'auckland',
+    'wellington',    
     'sydney',
     'brisbane',
     'perth',
     'hobart',
-    'wellington',
     'christchurch'
 );
 
