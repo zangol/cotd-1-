@@ -28,6 +28,7 @@ An example entry is as follows:
 
 # AB Deployment Example
 
+<<<<<<< HEAD
 To demonstrate AB deployments try the following:
 
 ## Setup Environment
@@ -83,7 +84,6 @@ You can also incrementally adjust from client
 Launch a a different browser and set cookies preferences to "never allow"
 Open http://ab-cotd.apps.10.2.2.2.xip.io 
 Refresh and note changes between cats and cities versions
-
 
 # Running using Docker Toolbox
 
